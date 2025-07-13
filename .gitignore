@@ -1,1 +1,21 @@
 .env
+__pycache__/
+
+
+# Python
+
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 환경 설정
+.env
+
+# VSCode
+.vscode/
+
+# OS 별
+.DS_Store
+Thumbs.db
